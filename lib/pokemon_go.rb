@@ -1,0 +1,7 @@
+require 'pokemon_go/base_stats'
+require 'pokemon_go/calculate_iv'
+require 'pokemon_go/combination'
+require 'pokemon_go/composite_value'
+require 'pokemon_go/pokemon'
+require 'pokemon_go/trainer'
+require 'pokemon_go/version'
